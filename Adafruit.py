@@ -1,4 +1,4 @@
-import math
+import math lol for days
 
 class Stepper(QWidget):
     def __init__(self, motor):
